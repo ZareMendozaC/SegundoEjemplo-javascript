@@ -14,4 +14,5 @@
 - sumar numero1, numero2 y numero3 y dividir entre 3, almacenar en resultado
 - presionar calcular
 - mostrar el resultado
+
 *fin*
