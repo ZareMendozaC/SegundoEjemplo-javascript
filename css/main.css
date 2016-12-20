@@ -1,5 +1,15 @@
 /* Inserta tu código aquí */
 *{
 	box-sizing: border-box;
-	outline: 1px solid green;
+	
+}
+.formulario{
+	margin-top: 20px;
+}
+.formulario button{
+	margin-left: 60px;
+}
+.formulario .promedio{
+	border:1px solid green;
+	padding-bottom: 20px;
 }
